@@ -1,0 +1,7 @@
+Bob:12345:ablactated:a__actate_:6:46.32
+John:12345:berrichonne:berr_ch___e:3:64.92
+Jane:12345:obligement:___i_e_e__:1:73.55
+Peter:12345:stillwater:sti__wa_er:4:41.72
+Candi:12345:dissecting:d___ec__ng:2:78.43
+Tim:12345:::0:50.00
+JJ:12345:::1:50.00

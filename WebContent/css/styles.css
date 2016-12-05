@@ -1,0 +1,58 @@
+body 
+{
+    background-color:   #252584;
+    text-align:         center;
+    color:	            #CCFFFF;
+    margin:             5%;
+}
+
+h1, h2, h3, h4, h5, h6 
+{
+    color: 	            #CCFFFF;
+}
+
+a:visited {
+ 	color: 				white;
+}
+
+a:link {
+ 	color: 				#CCFFFF;
+}
+
+a:hover {
+ 	color: 				#CCFFFF;
+}
+
+button
+{
+    border-radius: 		100%;
+}
+
+fieldset
+{
+    margin-left:       	20%;
+    margin-right:      	20%;
+}
+
+legend
+{
+    text-align:         left;
+}
+
+table
+{
+    
+    align-content: 		center;
+    width: 				100%;
+}
+
+.hs tr:nth-child(even)
+{
+	background: #252575;
+}
+.logout
+{
+	position:	fixed;
+	top:		5px;
+	left:		5px;
+}
